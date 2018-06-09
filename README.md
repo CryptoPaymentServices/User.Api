@@ -7,7 +7,7 @@ API (TestNet): https://test.crypto-payment.services/user/swagger/index.html
 You can use API directly from your applications or you can call it directly from swagger.
 
 ## API Access Key
-In order to use the system you need an API access key. Getting a key is free and easy, sign up here: https://crypto-payment.services (MainNet networks) or https://test.crypto-payment.services (TestNet networks)
+In order to use the system you need an API access key. Getting a key is free and easy, sign up here: https://test.crypto-payment.services (TestNet networks)
 
 ## How to increase user balance
 - Get user etherium pay-in address using `GET /api/info`
