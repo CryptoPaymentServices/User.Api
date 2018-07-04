@@ -1,6 +1,7 @@
 # Crypto-Payment.Services User.API
 This API allows to get user pay-in address, statistical info and rates. It also allows to configure slack webhook to recieve messages about failed notifications.
 
+API (MainNet): https://crypto-payment.services/user/swagger/index.html
 API (TestNet): https://test.crypto-payment.services/user/swagger/index.html
 
 ## How to use API
